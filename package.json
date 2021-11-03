@@ -48,7 +48,7 @@
     "strip-tags": "0.1.1",
     "stripe": "^7.9.1",
     "supertest": "1.0.1",
-    "validator": "4.5.0",
+    "validator": "13.7.0",
     "winston": "1.0.0",
     "winston-mongodb": "1.1.1"
   },
